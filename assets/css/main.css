@@ -1115,8 +1115,7 @@ button {
 		width: 100%;
 		height: 100%;
 	}
-
-	/* This sets the image the overlay on the background */
+/* This sets the image the overlay on the background */
 	#bg:before {
 		-moz-transition: background-color 2.5s ease-in-out;
 		-webkit-transition: background-color 2.5s ease-in-out;
@@ -1126,7 +1125,7 @@ button {
 		-webkit-transition-delay: 0.75s;
 		-ms-transition-delay: 0.75s;
 		transition-delay: 0.75s;
-		background-image: url("images/82476816_455915395287303_1119691823674032128_n (1).jpg");
+		background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/overlay.png");
 		background-size: auto, 256px 256px;
 		background-position: center, center;
 		background-repeat: no-repeat, repeat;
@@ -1145,7 +1144,7 @@ button {
 		-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 		transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 		/* We can change the background image here. */
-		background-image: url("images/82476816_455915395287303_1119691823674032128_n (1).jpg"");
+		background-image: url("../../images/background.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
