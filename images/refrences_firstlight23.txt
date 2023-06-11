@@ -1,0 +1,11 @@
+REFERENCES
+Cunningham, E. C., Deason, A. J., Rockosi, C. M., et al. 2019a, ApJ, 876, 124
+Cunningham, E. C., Deason, A. J., Sanderson, R. E., et al. 2019b, ApJ, 879, 120
+Faber, S. M., Phillips, A. C., Kibrick, R. I., et al. 2003, in Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Vol. 4841, Instrument Design and Performance for Optical/Infrared Ground-based Telescopes, ed. M. Iye & A. F. M. Moorwood, 1657
+Grogin, N. A., Kocevski, D. D., Faber, S. M., et al. 2011, ApJS, 197, 35
+Pharo, J., Guo, Y., Calvo, G. B., et al. 2022, ApJS, 261, 12
+van der Wel, A., Bell, E. F., H ̈aussler, B., et al. 2012, ApJS, 203, 24
+Wang, W., Kassin, S. A., Faber, S. M., et al. 2022, ApJ, 930, 146
+Wang, W., Kassin, S. A., Faber, S. M., et al. In Prep, 2023
+Williams, R. J., Quadri, R. F., Franx, M., van Dokkum, P., & Labb ́e, I. 2009, ApJ, 691, 1879
+Yesuf, H. M., Koo, D. C., Faber, S. M., et al. 2017, ApJ, 841, 83
